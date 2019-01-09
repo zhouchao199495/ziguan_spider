@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spiders>
+	<spider name="eastmoney" chn_name="东方财富" domain="eastmoney.com">
+		<start_urls>
+			<start_url name="要闻" url="http://finance.eastmoney.com/a/cywjh.html">
+			</start_url>
+			<start_url name="国内经济" url="http://finance.eastmoney.com/a/cgnjj.html">
+			</start_url>
+			<start_url name="债券分析" url="http://bond.eastmoney.com/a/czsfx.html">
+			</start_url>
+			<start_url name="债券新闻" url="http://bond.eastmoney.com/a/czqxw.html" >
+			</start_url>
+		</start_urls>
+	</spider>
+</spiders>
